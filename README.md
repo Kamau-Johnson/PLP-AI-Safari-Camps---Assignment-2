@@ -1,2 +1,7 @@
-# PLP-AI-Safari-Camps---Assignment-2
-This is my assignment 2 done in PLP-AI Safari.............
+# Java-Assignment-2
+
+
+
+## Authors
+
+- Kamau Johnson
